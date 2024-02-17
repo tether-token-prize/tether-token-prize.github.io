@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Alfphabet';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Alfphabet-IV'), url('Alfphabet-IV.woff') format('woff');
+}
